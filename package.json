@@ -1,7 +1,7 @@
 {
   "name": "jumpfm-cd-argv",
   "version": "1.0.0",
-  "description": "",
+  "description": "A plugin that lets you launch [JumpFm](http://jumpfm.org/) with the desired folders.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,14 @@
   },
   "dependencies": {
     "minimist": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JumpFm/jumpfm-cd-argv.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JumpFm/jumpfm-cd-argv/issues"
+  },
+  "homepage": "https://github.com/JumpFm/jumpfm-cd-argv#readme"
 }
